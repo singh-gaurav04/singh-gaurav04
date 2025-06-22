@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 
-<div align="center">
-  <img align="right" alt="coding" width="300" src="https://t4.ftcdn.net/jpg/08/26/30/55/240_F_826305596_oQNOmpKHf9Txch2qg9y614JpsYdiqNsO.jpg" />
-</div>
+
 
 <h3 align="center">
   <em>Java Developer | Learning by Building | Clean Code Enthusiast</em><br>
@@ -15,6 +13,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=singh-gaurav04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+<div align="center">
+  <img align="right" alt="coding" width="300" src="https://t4.ftcdn.net/jpg/08/26/30/55/240_F_826305596_oQNOmpKHf9Txch2qg9y614JpsYdiqNsO.jpg" />
+</div>
 
 
 
