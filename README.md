@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 
 <div align="center">
-  <img align="right" alt="coding" width="300" src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-doing-coding-6779424-5583212.png?f=webp" />
+  <img align="right" alt="coding" width="300" src="https://t4.ftcdn.net/jpg/08/26/30/55/240_F_826305596_oQNOmpKHf9Txch2qg9y614JpsYdiqNsO.jpg" />
 </div>
 
 <h3 align="center">
@@ -12,11 +12,11 @@
 
 ---
 
-
-
-<p align="right">
-  <img src="https://stock.adobe.com/search?k=programmer+funny" alt="Coding" width="250"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=singh-gaurav04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+
 
 - 🌱 I’m currently learning **Cognizant_Nurture_4.0_JavaFSE**
 
