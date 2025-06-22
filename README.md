@@ -12,12 +12,10 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=singh-gaurav04&label=Profile%20views&color=0e75b6&style=flat" alt="singh-gaurav04" />
-</p>
+
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/singh-gaurav04/singh-gaurav04/main/assets/profile-right.png" alt="Coding" width="250"/>
+  <img src="https://stock.adobe.com/search?k=programmer+funny" alt="Coding" width="250"/>
 </p>
 
 - 🌱 I’m currently learning **Cognizant_Nurture_4.0_JavaFSE**
