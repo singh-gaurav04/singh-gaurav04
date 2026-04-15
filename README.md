@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 
-
-
 <h3 align="center">
-  <em>Java Developer | Learning by Building | Clean Code Enthusiast</em><br>
-  <em>Engineering Student | Java | DSA | Web Dev Learner</em><br>
-  <em>Code. Learn. Repeat. 🚀 | Java | DSA | Projects</em>
+  <em>Aspiring AI Engineer | Full Stack Developer | Problem Solver</em><br>
+  <em>Java | DSA | Generative AI | FastAPI | MERN</em><br>
+  <em>Building AI-powered applications & scalable systems 🚀</em>
 </h3>
 
 ---
@@ -18,64 +16,72 @@
   <img align="right" alt="coding" width="300" src="https://t4.ftcdn.net/jpg/08/26/30/55/240_F_826305596_oQNOmpKHf9Txch2qg9y614JpsYdiqNsO.jpg" />
 </div>
 
+---
 
+### 🚀 About Me
 
-- 🌱 I’m currently learning **Cognizant_Nurture_4.0_JavaFSE**
+- 🎓 Engineering Student passionate about **AI & Software Development**
+- 🤖 Building **AI-powered projects using RAG, LangChain & LLMs**
+- 💻 Strong in **Java, DSA, and Backend Development**
+*
+- 🧠 Exploring **Generative AI, FastAPI, and scalable systems**
+- 🎯 Actively looking for **AI Engineer / Software Developer roles**
 
-- 👨‍💻 All of my projects are available at:  
-  🔗 [**My Portfolio**](https://gaurav26lnct.netlify.app/)
+---
 
-- 📫 How to reach me:  
-  ✉️ **gaurav26lnct@gmail.com**
+### 👨‍💻 Projects
+
+- 🤖 **AI Personal Assistant**  
+  Built using **Mistral + RAG + LangChain** that can respond and automate tasks like job-related messaging.
+
+- 🔍 **Multi-Agent AI Research System** *(Upcoming)*  
+  AI system using multiple tools/agents to research, verify, and refine outputs.
+
+- 🌐 **Full Stack Job Portal**  
+  Role-based system with authentication using **Spring Boot + React + MongoDB**
+
+---
+
+### 📫 Reach Me
+
+- ✉️ Email: **gaurav26lnct@gmail.com**
+- 🌐 Portfolio: **https://gaurav26lnct.netlify.app/**
 
 ---
 
 ### 🤝 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/gaurav singh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/gaurav__04" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+### 🛠️ Tech Stack
 
+- 💻 **Languages:** Java, Python, C, C++, JavaScript  
+- ⚙️ **Backend:** Spring Boot, FastAPI, Node.js  
+- 🌐 **Frontend:** React.js, HTML, CSS, Tailwind  
+- 🧠 **AI/ML:** LangChain, RAG, LLMs (Mistral), Prompt Engineering  
+- 🗄️ **Database:** MongoDB, PostgreSQL  
+- 🛠️ **Tools:** Git, Postman, Linux, Docker (Learning)
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singh-gaurav04&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh-gaurav04&show_icons=true&locale=en" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singh-gaurav04&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh-gaurav04&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-<p align="center">✨ <strong>Thanks for visiting my profile! Keep coding and keep learning. 🚀</strong> ✨</p>
+<p align="center">✨ <strong>Open to AI & Software Developer Opportunities 🚀</strong> ✨</p>
