@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 
 <h3 align="center">
-  <em>Aspiring AI Engineer | Full Stack Developer | Problem Solver</em><br>
+  <em>AI Engineer | Full Stack Developer | Problem Solver</em><br>
   <em>Java | DSA | Generative AI | FastAPI | MERN</em><br>
   <em>Building AI-powered applications & scalable systems 🚀</em>
 </h3>
