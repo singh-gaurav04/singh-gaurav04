@@ -17,7 +17,7 @@
 <br/>
 
 <!-- PROFILE VIEWS + STATUS -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=singh-gaurav04&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Roles-06B6D4?style=for-the-badge&logo=statuspage&logoColor=white)
 
 </div>
@@ -131,17 +131,17 @@ Currently focused on intelligent agents that compress hours of manual work into 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=singh-gaurav04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-gaurav04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=06B6D4&currStreakLabel=A855F7" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=singh-gaurav04&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=06B6D4&currStreakLabel=A855F7" width="60%"/>
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=A855F7&line=06B6D4&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singh-gaurav04&bg_color=0D1117&color=A855F7&line=06B6D4&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
