@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:A855F7,100:06B6D4&height=200&section=header&text=Building%20the%20AI-Native%20Future&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%40%20Sharkdom%20%7C%20LLMs%20%C2%B7%20Agents%20%C2%B7%20RAG%20%C2%B7%20MCP&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:A855F7,100:06B6D4&height=200&section=header&text=Building%20the%20AI-Native%20Future&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%C2%B7%20Agents%20%C2%B7%20RAG%20%C2%B7%20MCP&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- ANIMATED TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=Autonomous+Agents+that+actually+ship+%F0%9F%9A%80;RAG+pipelines+that+don't+hallucinate+%F0%9F%A7%A0;Real-time+AI+that+runs+in+production+%E2%9A%A1;MCP+%7C+LangGraph+%7C+LLMs+%7C+Sharkdom)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=Autonomous+Agents+that+actually+ship+%F0%9F%9A%80;RAG+pipelines+that+don't+hallucinate+%F0%9F%A7%A0;Real-time+AI+that+runs+in+production+%E2%9A%A1;MCP+%7C+LangGraph+%7C+LLMs+%7C)](https://git.io/typing-svg)
 
 <br/>
 
