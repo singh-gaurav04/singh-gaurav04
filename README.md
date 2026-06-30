@@ -26,7 +26,7 @@
 
 ## 🧠 Who I Am
 
-**AI Engineer @ [Sharkdom](https://sharkdom.com)** — I build production-grade AI systems that don't just demo well, they *ship*. My work sits at the intersection of **LLM orchestration**, **autonomous agents**, and **real-world automation** — turning frontier model capabilities into products people actually use.
+**AI Engineer** — I build production-grade AI systems that don't just demo well, they *ship*. My work sits at the intersection of **LLM orchestration**, **autonomous agents**, and **real-world automation** — turning frontier model capabilities into products people actually use.
 
 Currently focused on intelligent agents that compress hours of manual work into seconds: from LinkedIn scouting pipelines that surface qualified leads autonomously, to real-time transcription systems that make async knowledge instantly searchable.
 
