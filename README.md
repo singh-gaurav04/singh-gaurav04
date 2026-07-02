@@ -71,7 +71,7 @@ Currently focused on intelligent agents that compress hours of manual work into 
 
 ## 🚀 Featured Projects
 
-### 🔍 LinkedIn Scouting Agent — *Sharkdom*
+### 🔍 LinkedIn Scouting Agent — *Self-paced*
 > Autonomous agent that identifies, qualifies, and profiles B2B leads from LinkedIn without manual intervention.
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-A855F7?style=flat-square)
